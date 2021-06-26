@@ -1,0 +1,8 @@
+name: Cubic
+summary: Custom Ubuntu ISO Creator
+description: Cubic, but on snap store. Original: https://launchpad.net/cubic
+version: 1.0
+icon: cubic.png
+base: core18
+grade: stable
+confinement: strict
